@@ -1,7 +1,7 @@
 <!-- This is how you should write your reviews on this page
-<br>Name->
-<br>Mailid->
-<br>Your review->*--!>
+<br>Name->Parth Gupta
+<br>Mailid->parthgupta150903@gmail.com
+<br>Your review->*--!>Great UI,loved the blog.
 <h1> Reviews</h1>
 <!-- Start writing below this line--!>
 <br>Name-> Om Sarraf
